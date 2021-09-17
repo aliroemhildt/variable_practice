@@ -8,4 +8,4 @@ var hasWater = false
 
 #arrays
 var trailDistances = [2,5,10.3]
-var hikers = ['Ali','Daniel','Katie','Kevin']
+var hikers = ['Ali','Daniel','Katie','Kevin','Nikki']
