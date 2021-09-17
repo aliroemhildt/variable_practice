@@ -1,5 +1,5 @@
 #integers
-var Height = 7000
+var Height = 7001
 var coreTemp = 65
 
 #booleans
