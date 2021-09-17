@@ -1,12 +1,11 @@
 #integers
-var numOne = 2
-var numTwo = 7.5
-var numThree = 100678
+var Height = 7000
+var coreTemp = 65
 
 #booleans
-var isHappy = true
-var isStudent = false
+var hasTrees = true
+var hasWater = false
 
 #arrays
-var ages = [25,16,12,45]
-var names = ['Ali','Daniel','Katie','Kevin']
+var trailDistances = [2,5,10.3]
+var hikers = ['Ali','Daniel','Katie','Kevin']
